@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shraddhasonwani/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3689-maximum-total-subarray-value-i](https://github.com/shraddhasonwani/Leetcode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shraddhasonwani/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/shraddhasonwani/Leetcode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
